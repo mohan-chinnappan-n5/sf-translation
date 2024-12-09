@@ -1,0 +1,15 @@
+Id	MaxWidth	Source	Target	
+ButtonOrLink.Account.Billing	240chars	Billing	
+ButtonOrLink.Campaign.ViewCampaignInfluenceReport	240chars	View Campaign Influence Report	
+ButtonOrLink.Case.UpsellCrosssellOpportunity	240chars	Up-sell / Cross-sell Opportunity	
+ButtonOrLink.Opportunity.DeliveryStatus	240chars	Delivery Status	
+CustomApp.Trailhead_Data_Manager	40chars	Trailhead Data Manager	
+CustomApp.Trailhead_Data_Manager.Description	255chars	Allows you to have meaningful training data to do the Wave Trails (=tutorials) on Salesforce Trailhead.	
+CustomField.OpportunityHistory__c.Amount.FieldLabel	40chars	Amount	
+CustomField.OpportunityHistory__c.CloseDate.FieldLabel	40chars	CloseDate	
+CustomField.OpportunityHistory__c.ExpectedRevenue.FieldLabel	40chars	Expected Revenue	
+CustomField.OpportunityHistory__c.ForecastCategory.FieldLabel	40chars	To ForecastCategory	
+CustomField.OpportunityHistory__c.OpportunityId.FieldLabel	40chars	Opportunity ID	
+CustomField.OpportunityHistory__c.OpportunityId.RelatedListLabel	80chars	Opportunity Histories	
+CustomField.OpportunityHistory__c.Probability.FieldLabel	40chars	Probability	
+CustomField.OpportunityHistory__c.StageName.FieldLabel	40chars	Stage Name	
